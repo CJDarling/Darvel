@@ -1,0 +1,19 @@
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\MainWindow.g.cs
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\App.g.cs
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project_MarkupCompile.cache
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project_MarkupCompile.lref
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\wpf project.exe.config
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\wpf project.exe
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\wpf project.pdb
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\MainWindow.baml
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project.g.resources
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf_project.Properties.Resources.resources
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project.csproj.GenerateResource.Cache
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project.exe
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project.pdb
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project_Content.g.cs
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\gMapsInterface.html
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\Newtonsoft.Json.dll
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\Newtonsoft.Json.pdb
+C:\Linky Things\Work\wpf project\wpf project\bin\Debug\Newtonsoft.Json.xml
+C:\Linky Things\Work\wpf project\wpf project\obj\Debug\wpf project.csprojResolveAssemblyReference.cache
